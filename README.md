@@ -129,6 +129,12 @@ streamlit run dashboard/app.py
 
 ---
 
+👩‍💻 Created By
+
+Vedasri Narla
+
+Feel free to ⭐ star or fork the project if you found it interesting!
+
 ## 📄 License
 
 MIT License — free to use, modify, and distribute.
