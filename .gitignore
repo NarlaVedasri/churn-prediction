@@ -1,0 +1,28 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Data (raw data often too large for git)
+data/raw/*.csv
+data/processed/*.csv
+
+# Model artifacts
+*.pkl
+*.joblib
+models/saved/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
